@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hueflix</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="btn_cancel">Abbrechen</string>
+    <string name="btn_find_bridge">Neue Bridge finden</string>
+    <string name="btn_more">Mehr</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_random">Zufällige Lichter</string>
+    <string name="btn_reconnect">Neu verbinden</string>
+    <string name="btn_refresh">Aktualisieren</string>
+    <string name="btn_retry">Nochmal versuchen</string>
+    <string name="connecting">Verbinde…</string>
+    <string name="could_not_find_bridge">Hue kann deine Bridge nicht finden. Bitte stelle sicher, dass sie mit dem gleichen W-Lan Router wie das Handy verbunden ist.</string>
+    <string name="currently_selected">Momentan ausgewählt:\n%s</string>
+    <string name="enter_light_name">Gebe Lichtnamen ein</string>
+    <string name="label_paused">Pausiert</string>
+    <string name="label_play">Film läuft</string>
+    <string name="menu_find_bridge">Neue Bridge finden</string>
+    <string name="menu_refresh">Aktualisieren</string>
+    <string name="no_bridge">Keine Bridge gefunden. Starte Bridge Suche</string>
+    <string name="press_pushlink_button">Drück den Link-Knopf auf der Bridge</string>
+    <string name="search_progress">Suche…</string>
+    <string name="searching_for_bridges">Suche für Bridges</string>
+    <string name="select_scene">Szene auswählen</string>
+    <string name="title_error">Fehler</string>
+    <string name="txt_click_random_button">Drück den Zufallsbutton um deine Lampen zufällig zu färben.</string>
+    <string name="txt_could_not_connect">Keine Verbindung</string>
+    <string name="txt_instructions">Wähle die Szenen aus, die du während des Guckens und während des Pausierens aktivieren willst.\nUm eine Szene zu erstellen, benutze die Philips Hue App.</string>
+    <string name="txt_last_heartbeat">Letzter Herzschlag:</string>
+    <string name="txt_pushlink">Pushlink</string>
+    <string name="txt_sdk_version">SDK Version</string>
+    <string name="txt_select_smartbridge">Bitte wähle deine Bridge aus.</string>
+    <string name="txt_selectbridges">Verfügbare Zugangspunkte</string>
+    <string name="enable_notification_access">Benachrichtigungszugriff erlauben</string>
+    <string name="notification_access">Diese App braucht Benachrichtigungszugriff um zu funktionieren. Bitte aktiviere den Benachrichtigungszugriff.\\nDie App sammelt keine persönlichen Daten und nutzt keine Daten, die sie nicht braucht um korrekt zu funktionieren.</string>
+</resources>
